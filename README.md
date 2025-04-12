@@ -18,7 +18,7 @@
 [![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)
 
 ### Connect With Me:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-zhang-55305932b/) [![Instagram Badge]
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-zhang-55305932b/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domcheung018@gmail.com)
 
 
