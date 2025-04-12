@@ -5,7 +5,7 @@
 📫 How to reach me: domcheung018@gmail.com<br>
 ⚡ Fun fact: After trying, let's see what will catch, aha, an exception.<br>
 
-[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&hide=stars,prs&count_private=true)](https://github.com/nortHades/github-readme-stats)
+[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs)](https://github.com/nortHades/github-readme-stats)
 
 
 
