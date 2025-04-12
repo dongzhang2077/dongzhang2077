@@ -4,6 +4,11 @@
 👯 I’m looking to get chance for Co-op or intership.<br>
 📫 How to reach me: domcheung018@gmail.com<br>
 ⚡ Fun fact: After trying, let's see what will catch, aha, an exception.<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **nortHades/nortHades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
