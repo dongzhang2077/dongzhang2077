@@ -49,8 +49,14 @@
 </p>
 
 <!--[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)-->
+---
+### Top Usage Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact)](https://github.com/nortHades/github-readme-stats) <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact&theme=dark&hide_border=true&&langs_count=10" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact&theme=dark&hide_border=true&&langs_count=10)](https://github.com/nortHades/github-readme-stats) <br>
 
 
 
