@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dong+Zhang....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 🔭 I’m currently studying at Douglas College.<br>
 🌱 I’m currently learning Computer and Information System.<br>
 👯 I’m looking to get chance for Co-op or intership.<br>
