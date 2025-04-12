@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently studying at Douglas College.
+🔭 I’m currently studying at Douglas College.<br>
 🌱 I’m currently learning Computer and Information System.
 👯 I’m looking to get chance for Co-op or intership.
 📫 How to reach me: domcheung018@gmail.com
