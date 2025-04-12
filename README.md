@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+🔭 I’m currently studying at Douglas College.
+🌱 I’m currently learning Computer and Information System.
+👯 I’m looking to get chance for Co-op or intership.
+📫 How to reach me: domcheung018@gmail.com
+⚡ Fun fact: After trying, let's see what will catch, aha, an exception.
 <!--
 **nortHades/nortHades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
