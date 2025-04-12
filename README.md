@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+
 🔭 I’m currently studying at Douglas College.<br>
 🌱 I’m currently learning Computer and Information System.<br>
 👯 I’m looking to get chance for Co-op or intership.<br>
