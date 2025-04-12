@@ -38,13 +38,20 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
-
-
-
 ---
 
+### My Github Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical" alt="Dong's GitHub stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortHades&theme=dark" alt="dong" />
+</p>
+
+<!--[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact)](https://github.com/nortHades/github-readme-stats) <br>
-[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)
+
 
 
 
