@@ -4,17 +4,22 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=nortHades&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=nortHades&color=brightgreen) -->
 
-🔭 I’m currently studying at Douglas College.<br>
-🌱 I’m currently learning Computer and Information System.<br>
-👯 I’m looking to get chance for Co-op or intership.<br>
-📫 How to reach me: domcheung018@gmail.com<br>
-⚡ Fun fact: After trying, let's see what will catch, aha, an exception.<br>
+---
+
+- 🔭 I’m currently studying at Douglas College.<br>
+- 🌱 I’m currently learning Computer and Information System.<br>
+- 👯 I’m looking to get chance for Co-op or intership.<br>
+<!-- - 📫 How to reach me: domcheung018@gmail.com<br> -->
+- ⚡ Fun fact: After trying, let's see what will catch, aha, an exception.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact)](https://github.com/nortHades/github-readme-stats) <br>
 [![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)
 
+### Connect With Me:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-zhang-55305932b/) [![Instagram Badge]
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domcheung018@gmail.com)
 
 
 <!--
