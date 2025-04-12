@@ -55,8 +55,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact&theme=dark&hide_border=true&&langs_count=10" />
 
 ---
+### Top Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact&theme=dark&hide_border=true&&langs_count=10)](https://github.com/nortHades/github-readme-stats) <br>
+<a href="https://github.com/nortHades/freeCodeCampPro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=freeCodeCampPro&theme=dark" />
+</a>
 
 
 
