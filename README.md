@@ -11,8 +11,9 @@
 - 🔭 I’m currently studying at Douglas College.<br>
 - 🌱 I’m currently learning Computer and Information System.<br>
 - 👯 I’m looking to get chance for Co-op or intership.<br>
-<!-- - 📫 How to reach me: domcheung018@gmail.com<br> -->
 - ⚡ Fun fact: After trying, let's see what will catch, aha, an exception.<br>
+<!-- - 📫 How to reach me: domcheung018@gmail.com<br> -->
+
 
 ---
 
