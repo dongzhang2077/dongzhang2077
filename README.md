@@ -54,7 +54,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortHades&layout=compact&theme=dark&hide_border=true&&langs_count=10" />
 
----
+<!-- ---
 ### Top Repositories
 
 <a href="https://github.com/nortHades/simple_e-commerce_store">
@@ -64,7 +64,7 @@
 <a href="https://github.com/nortHades/WebDemoProj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=WebDemoProj&theme=dark" />
 </a>
-
+-->
 
 
 
