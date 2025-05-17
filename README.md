@@ -57,12 +57,12 @@
 ---
 ### Top Repositories
 
-<a href="https://github.com/nortHades/freeCodeCampPro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=freeCodeCampPro&theme=dark" />
+<a href="https://github.com/nortHades/simple_e-commerce_store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=simple_e-commerce_store&theme=dark" />
 </a>
 
-<a href="https://github.com/nortHades/GameDemosDevOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=GameDemosDevOps&theme=dark" />
+<a href="https://github.com/nortHades/WebDemoProj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=WebDemoProj&theme=dark" />
 </a>
 
 
