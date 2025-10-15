@@ -60,6 +60,7 @@
 
 #### 💪 FitTrackPro
 ![FitTrackPro Demo](https://github.com/user-attachments/assets/293e82a5-5793-45d0-958c-d6e4cf02fd3a)
+
 **Technologies:** Kotlin, Jetpack Compose, Room Database
 - Built fitness tracking app with MVVM architecture and Room database
 - Integrated Wger API with 700+ exercises for comprehensive workout tracking
