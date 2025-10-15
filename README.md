@@ -51,13 +51,6 @@
 
 ### Featured Projects:
 
-#### 🍎 EatWise - Nutrition App
-![EatWise Demo](https://github.com/user-attachments/assets/add5e85a-5f56-4bc7-80cb-aad57a3a2ef6)
-**Technologies:** Express.js, TypeScript, PostgreSQL, OpenAI
-- Developed complete backend API with 6 endpoints serving nutrition and health guidance
-- Built RESTful API with OpenAI integration, voice transcription, and disease-specific dietary recommendations
-- Deployed on Railway platform for scalable access
-
 #### 🛒 E-Commerce Store
 ![E-Commerce Demo](https://github.com/user-attachments/assets/a3d13f3a-dead-48b1-8ccd-738e43bd2046)
 **Technologies:** React, Spring Boot, PostgreSQL, Docker
@@ -66,11 +59,18 @@
 - Implemented automated order management with CI/CD deployment
 
 #### 💪 FitTrackPro
-![FitTrackPro Demo](https://via.placeholder.com/400x200?text=FitTrackPro+Demo+GIF)
+![FitTrackPro Demo](![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/293e82a5-5793-45d0-958c-d6e4cf02fd3a))
 **Technologies:** Kotlin, Jetpack Compose, Room Database
 - Built fitness tracking app with MVVM architecture and Room database
 - Integrated Wger API with 700+ exercises for comprehensive workout tracking
 - Implemented user authentication, workout tracking, and personal records monitoring
+
+#### 🍎 EatWise - Nutrition App
+![EatWise Demo](https://github.com/user-attachments/assets/add5e85a-5f56-4bc7-80cb-aad57a3a2ef6)
+**Technologies:** Express.js, TypeScript, PostgreSQL, OpenAI
+- Developed complete backend API with 6 endpoints serving nutrition and health guidance
+- Built RESTful API with OpenAI integration, voice transcription, and disease-specific dietary recommendations
+- Deployed on Railway platform for scalable access
 
 ---
 
