@@ -15,7 +15,11 @@
 
 ---
 
-![My GitHub Game](game.gif)
+### 👾 Contribution Graph: Space Shooter
+
+![Dong Zhang's GitHub contribution space shooter animation](game.gif)
+
+> Auto-generated daily by GitHub Actions.
 
 ---
 
