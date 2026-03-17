@@ -15,7 +15,12 @@
 
 ---
 
+![My GitHub Game](game.gif)
+
+---
+
 ### Languages and Tools:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -52,23 +57,29 @@
 ### Featured Projects:
 
 #### 🛒 E-Commerce Store
+
 ![E-Commerce Demo](https://github.com/user-attachments/assets/a3d13f3a-dead-48b1-8ccd-738e43bd2046)
 **Technologies:** React, Spring Boot, PostgreSQL, Docker
+
 - Developed full-stack application with 42+ products and JWT authentication
 - Integrated Stripe payment processing and Cloudinary image storage
 - Implemented automated order management with CI/CD deployment
 
 #### 💪 FitTrackPro
+
 ![FitTrackPro Demo](https://github.com/user-attachments/assets/293e82a5-5793-45d0-958c-d6e4cf02fd3a)
 
 **Technologies:** Kotlin, Jetpack Compose, Room Database
+
 - Built fitness tracking app with MVVM architecture and Room database
 - Integrated Wger API with 700+ exercises for comprehensive workout tracking
 - Implemented user authentication, workout tracking, and personal records monitoring
 
 #### 🍎 EatWise - Nutrition App
+
 ![EatWise Demo](https://github.com/user-attachments/assets/add5e85a-5f56-4bc7-80cb-aad57a3a2ef6)
 **Technologies:** Express.js, TypeScript, PostgreSQL, OpenAI
+
 - Developed complete backend API with 6 endpoints serving nutrition and health guidance
 - Built RESTful API with OpenAI integration, voice transcription, and disease-specific dietary recommendations
 - Deployed on Railway platform for scalable access
@@ -76,6 +87,7 @@
 ---
 
 ### Connect With Me:
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dongzhang2077)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-zhang-cs2077b/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domcheung018@gmail.com)
@@ -83,6 +95,7 @@
 ---
 
 ### My Github Stats:
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongzhang2077&count_private=true&hide=stars,prs&show_icons=true&theme=radical" alt="Dong's GitHub stats" />
 </p>
@@ -90,8 +103,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortHades&theme=dark" alt="dong" />
 </p> -->
 
-<!--[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)-->
----
+## <!--[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nortHades&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/nortHades/github-readme-stats)-->
+
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzhang2077&layout=compact&theme=dark&hide_border=true&&langs_count=10" />
@@ -107,8 +120,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nortHades&repo=WebDemoProj&theme=dark" />
 </a>
 -->
-
-
 
 <!--
 **nortHades/nortHades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
